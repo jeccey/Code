@@ -5,5 +5,7 @@ int main()
     printf("time is 12:00");
 
     int a;
+    int c;
+int d;
     return 0;
 }

@@ -2,6 +2,8 @@
 int main()
 {
     printf("Version 0,1");
-    printf("Hello world");
+    printf("time is 12:00");
+
+    int a;
     return 0;
 }
